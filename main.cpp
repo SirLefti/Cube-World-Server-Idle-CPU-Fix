@@ -7,7 +7,7 @@
 //
 // This mod hooks the tail of that loop and inserts Sleep(10) on every pass.
 
-// ---- build requirements ----------------------------------------------------
+// ---- build requirements -----------------------------------------------------
 #include <stdint.h>   // UINTPTR_MAX - pointer width, checked portably
 
 #if !defined(_WIN32)
