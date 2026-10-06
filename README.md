@@ -9,6 +9,8 @@ This mod injects a short sleep period into the thread after each cycle. In
 fact, the client runs a nearly identical internal server thread in
 singleplayer, but with a short sleep period included.
 
+This mod is for the **alpha** build of Cube World.
+
 ## Installation
 
 * requires [coremaze Cube-World-Server-Mod-Launcher](https://github.com/coremaze/Cube-World-Server-Mod-Launcher/releases/tag/prerelease2)
